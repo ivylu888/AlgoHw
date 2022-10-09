@@ -29,7 +29,6 @@
 | --- | --- |
 | 39. Combination Sum |   |
 | 46. Permutations | https://github.com/ivylu888/AlgoHw/blob/main/lc103.py |
-|  | https://github.com/ivylu888/AlgoHw/blob/main/lc104.py |
 | 17. Letter Combinations of a Phone Number | https://github.com/ivylu888/AlgoHw/blob/main/lc199.py |
 | 79. Word Search | https://github.com/ivylu888/AlgoHw/blob/main/lc236.py | 
 | 967. Numbers With Same Consecutive Differences | https://github.com/ivylu888/AlgoHw/blob/main/lc199.py |
