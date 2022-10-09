@@ -12,7 +12,7 @@
 
 ## HW2 Binary Tree
 | Problems  | Notes |
-| --- | --- |
+| ------------- |------------- |
 | 101. Symmetric Tree |   |
 | 103. Binary Tree Zigzag Level Order Traversal | https://github.com/ivylu888/AlgoHw/blob/main/lc103.py |
 | 104. Maximum Depth of Binary Tree | https://github.com/ivylu888/AlgoHw/blob/main/lc104.py |
