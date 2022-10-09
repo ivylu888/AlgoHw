@@ -8,7 +8,7 @@
 
 
 
-## HW2 Binary Tree
+
 [101. Symmetric Tree]()  
 [103. Binary Tree Zigzag Level Order Traversal](https://github.com/ivylu888/AlgoHw/blob/main/lc103.py)
 [104. Maximum Depth of Binary Tree](https://github.com/ivylu888/AlgoHw/blob/main/lc104.py/)  
@@ -16,6 +16,7 @@
 [236. Lowest Common Ancestor of a Binary Tree](https://github.com/ivylu888/AlgoHw/blob/main/lc236.py)
 
 
+## HW2 Binary Tree
 | Problems  | Notes |
 | --- | --- |
 | 39. Combination Sum |   |
@@ -29,7 +30,7 @@
 | 797. All Paths From Source to Target | https://github.com/ivylu888/AlgoHw/blob/main/lc199.py |
 
 
-
+## HW3 
 | Problems  | Notes |
 | --- | --- |
 | 101. Symmetric Tree |   |
