@@ -3,11 +3,8 @@
 
 ## HW1
 
-[101. Symmetric Tree]()  
-[103. Binary Tree Zigzag Level Order Traversal](https://github.com/ivylu888/AlgoHw/blob/main/lc103.py)
-[104. Maximum Depth of Binary Tree](https://github.com/ivylu888/AlgoHw/blob/main/lc104.py/)  
-[199. Binary Tree Right Side View](https://github.com/ivylu888/AlgoHw/blob/main/lc199.py/)  
-[236. Lowest Common Ancestor of a Binary Tree](https://github.com/ivylu888/AlgoHw/blob/main/lc236.py)
+
+
 
 
 ## HW2 Binary Tree
@@ -35,6 +32,8 @@
 | 78. Subsets | https://github.com/ivylu888/AlgoHw/blob/main/lc78.py |
 | 22. Generate Parentheses | |
 | 797. All Paths From Source to Target |  |
+
+
 
 
 
