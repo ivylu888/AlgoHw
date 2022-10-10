@@ -17,7 +17,7 @@
 | 236. Lowest Common Ancestor of a Binary Tree | https://github.com/ivylu888/AlgoHw/blob/main/lc236.py | 
 | 314. Binary Tree Vertical Order Traversal |  |
 | 662. Maximum Width of Binary Tree |  |
-| 366. Find Leaves of Binary Tree |  |
+| 366. Find Leaves of Binary Tree | https://github.com/ivylu888/AlgoHw/blob/main/lc366.py |
 | 236. Lowest Common Ancestor of a Binary Tree |  |
 
 
