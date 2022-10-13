@@ -16,9 +16,9 @@
 | 199. Binary Tree Right Side View | https://github.com/ivylu888/AlgoHw/blob/main/lc199.py |
 | 236. Lowest Common Ancestor of a Binary Tree | https://github.com/ivylu888/AlgoHw/blob/main/lc236.py | 
 | 314. Binary Tree Vertical Order Traversal | https://github.com/ivylu888/AlgoHw/blob/main/lc314.py |
-| 662. Maximum Width of Binary Tree |  |
+| 662. Maximum Width of Binary Tree | https://github.com/ivylu888/AlgoHw/blob/main/lc662.py |
 | 366. Find Leaves of Binary Tree | https://github.com/ivylu888/AlgoHw/blob/main/lc366.py |
-| 236. Lowest Common Ancestor of a Binary Tree |  |
+| 236. Lowest Common Ancestor of a Binary Tree | https://github.com/ivylu888/AlgoHw/blob/main/lc236.py |
 
 
 ## HW3 
