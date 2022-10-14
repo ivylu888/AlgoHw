@@ -6,7 +6,7 @@
 | ------------- |------------- |
 | 1721. Swapping Nodes in a Linked List | https://github.com/ivylu888/AlgoHw/blob/main/lc1721.py |
 | 61. Rotate List | https://github.com/ivylu888/AlgoHw/blob/main/lc61.py |
-| 203. Remove Linked List Elements |  |
+| 203. Remove Linked List Elements | https://github.com/ivylu888/AlgoHw/blob/main/lc203.py |
 | 725. Split Linked List in Parts | | 
 | 708. Insert into a Cyclic Sorted List | |
 
