@@ -37,7 +37,7 @@
 | 967. Numbers With Same Consecutive Differences |  |
 | 78. Subsets | https://github.com/ivylu888/AlgoHw/blob/main/lc78.py |
 | 22. Generate Parentheses | |
-| 797. All Paths From Source to Target |  |
+
 
 
 
