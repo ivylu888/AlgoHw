@@ -30,8 +30,8 @@
 ## HW3 
 | Problems  | Notes |
 | --- | --- |
-| 39. Combination Sum |   |
-| 46. Permutations |  |
+| 39. Combination Sum | https://github.com/ivylu888/AlgoHw/blob/main/lc36.py |
+| 46. Permutations | https://github.com/ivylu888/AlgoHw/blob/main/lc46.py |
 | 17. Letter Combinations of a Phone Number |  |
 | 79. Word Search |  | 
 | 967. Numbers With Same Consecutive Differences |  |
