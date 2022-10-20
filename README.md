@@ -36,7 +36,7 @@
 | 79. Word Search | https://github.com/ivylu888/AlgoHw/blob/main/lc79.py | 
 | 967. Numbers With Same Consecutive Differences |  |
 | 78. Subsets | https://github.com/ivylu888/AlgoHw/blob/main/lc78.py |
-| 22. Generate Parentheses | |
+| 22. Generate Parentheses | https://github.com/ivylu888/AlgoHw/blob/main/lc22.py |
 
 
 
