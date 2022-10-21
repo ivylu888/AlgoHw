@@ -27,16 +27,33 @@
 | 236. Lowest Common Ancestor of a Binary Tree | https://github.com/ivylu888/AlgoHw/blob/main/lc236.py |
 
 
+
+
 ## HW3 
 | Problems  | Notes |
 | --- | --- |
-| 39. Combination Sum | https://github.com/ivylu888/AlgoHw/blob/main/lc36.py |
+| 39. Combination Sum | https://github.com/ivylu888/AlgoHw/blob/main/lc39.py |
 | 46. Permutations | https://github.com/ivylu888/AlgoHw/blob/main/lc46.py |
 | 17. Letter Combinations of a Phone Number | https://github.com/ivylu888/AlgoHw/blob/main/lc17.py |
 | 79. Word Search | https://github.com/ivylu888/AlgoHw/blob/main/lc79.py | 
 | 967. Numbers With Same Consecutive Differences | https://github.com/ivylu888/AlgoHw/blob/main/lc967.py |
 | 78. Subsets | https://github.com/ivylu888/AlgoHw/blob/main/lc78.py |
 | 22. Generate Parentheses | https://github.com/ivylu888/AlgoHw/blob/main/lc22.py |
+
+
+## HW4 
+| Problems  | Notes |
+| --- | --- |
+| 109. Convert Sorted List to Binary Search Tree |  |
+| 426. Convert Binary Search Tree to Sorted Doubly Linked List |  |
+| 98. Validate Binary Search Tree |  |
+| 99. Recover Binary Search Tree |  | 
+| 173. Binary Search Tree Iterator |  |
+| 449. Serialize and Deserialize BST |  |
+| 285. Inorder Successor in BST |  |
+| 938. Range Sum of BST | https://github.com/ivylu888/AlgoHw/blob/main/lc938.py |
+
+
 
 
 
