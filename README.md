@@ -48,7 +48,7 @@
 | 426. Convert Binary Search Tree to Sorted Doubly Linked List | https://github.com/ivylu888/AlgoHw/blob/main/lc426.py |
 | 98. Validate Binary Search Tree | https://github.com/ivylu888/AlgoHw/blob/main/lc98.py |
 | 99. Recover Binary Search Tree |  | 
-| 173. Binary Search Tree Iterator |  |
+| 173. Binary Search Tree Iterator | https://github.com/ivylu888/AlgoHw/blob/main/lc173.py |
 | 449. Serialize and Deserialize BST |  |
 | 285. Inorder Successor in BST | https://github.com/ivylu888/AlgoHw/blob/main/lc285.py |
 | 938. Range Sum of BST | https://github.com/ivylu888/AlgoHw/blob/main/lc938.py |
