@@ -45,8 +45,8 @@
 | Problems  | Notes |
 | --- | --- |
 | 109. Convert Sorted List to Binary Search Tree |  |
-| 426. Convert Binary Search Tree to Sorted Doubly Linked List |  |
-| 98. Validate Binary Search Tree |  |
+| 426. Convert Binary Search Tree to Sorted Doubly Linked List | https://github.com/ivylu888/AlgoHw/blob/main/lc426.py |
+| 98. Validate Binary Search Tree | https://github.com/ivylu888/AlgoHw/blob/main/lc98.py |
 | 99. Recover Binary Search Tree |  | 
 | 173. Binary Search Tree Iterator |  |
 | 449. Serialize and Deserialize BST |  |
