@@ -66,6 +66,16 @@
 | Question 5 | https://github.com/ivylu888/AlgoHw/blob/main/midQ5.py |
 
 
+## Final
+| Problems  | Notes |
+| ------------- |------------- |
+| Question 1 | https://github.com/ivylu888/AlgoHw/blob/main/final_1.py |
+| Question 2 |https://github.com/ivylu888/AlgoHw/blob/main/final_2.py|
+| Question 3 | https://github.com/ivylu888/AlgoHw/blob/main/final_3.py  |
+| Question 4 | https://github.com/ivylu888/AlgoHw/blob/main/final_4.py | 
+
+
+
 
 
 
